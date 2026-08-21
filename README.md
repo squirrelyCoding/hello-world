@@ -1,2 +1,2 @@
 # hello-world
-This repository is for class CSC 430 for submission on 8-21-26
+My name's Abigail, but people call me Abbie. I like reading, making my own sodas, crocheting, and I love cats.
